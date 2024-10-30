@@ -5,11 +5,11 @@
 
 people:
   - name: "J.K. Rowling"
-    aliases: ["Joanne Rowling", "Robert Galbraith"]
+    aliases: ["Joanne Rowling", "Robert Galbraith", "J. K. Rowling"]
     ids:
       hardcover_id: "j-k-rowling"
       amazon_id: "B000AP9A6K"
-      comicvine_id:
+      comicvine_id: "4040-81748"
       mal_id:
       anilist_id: 
       metron_id: 
@@ -19,8 +19,18 @@ people:
     ids:
       hardcover_id: 
       amazon_id: 
-      comicvine_id:
-      mal_id:
+      comicvine_id: "4040-72833"
+      mal_id: "17441"
       anilist_id: "112441"
       metron_id: 
-    image_path: "people/Shimimaru.jpg"
+    image_path: "people/Shimimaru.webp"
+  - name: "Stephen King"
+    aliases: ["Richard Bachman", "John Swithen", "Beryl Evans"]
+    ids:
+      hardcover_id: "stephen-king"
+      amazon_id: "B000AQ0842"
+      comicvine_id: "4040-41925"
+      mal_id:
+      anilist_id:
+      metron_id: "4766"
+    image_path: "people/stephen-king.webp"
